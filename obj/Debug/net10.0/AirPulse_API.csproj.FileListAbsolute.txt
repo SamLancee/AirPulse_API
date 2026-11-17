@@ -147,3 +147,4 @@ C:\xampp\htdocs\AirPulse_API\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqli
 C:\xampp\htdocs\AirPulse_API\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\xampp\htdocs\AirPulse_API\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\xampp\htdocs\AirPulse_API\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\xampp\htdocs\AirPulse_API\obj\Debug\net10.0\AirPulse_API.sourcelink.json
